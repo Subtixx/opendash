@@ -1,2 +1,3 @@
-# opendash
-A laravel dashboard, similar to dashy
+<p align="center">
+  <img src="./.github/logo.svg" />
+</p>
