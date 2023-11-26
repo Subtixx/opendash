@@ -1,0 +1,9 @@
+.tippy-box {
+    background: oklch(var(--b3));
+    color: oklch(var(--bc));
+    box-shadow: 0 0 0.5rem 0.25rem oklch(var(--b3)/0.5);
+}
+
+.tippy-box .tippy-arrow {
+    color: oklch(var(--b3));
+}
